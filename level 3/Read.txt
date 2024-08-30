@@ -1,0 +1,16 @@
+1.  Browser Tools
+   1. View Page Source
+   2. Inspect Element
+   3. HTML without CSS
+
+2. Responsive Design
+   1. Different screen size
+
+3. Live Edit Code
+   1. Live edit HTML
+   2. Live edit CSS
+   3. Live edit JS
+   4. Changes only happening at client
+
+4. Validating Web pages
+   1. Using validator.w3.org
